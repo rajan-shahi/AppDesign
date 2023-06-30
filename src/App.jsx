@@ -1,14 +1,13 @@
+import "./App.css";
 
-import './App.css';
-import Home from './components/home/Homebar.jsx';
+import Home from "./components/home/Homebar.jsx";
 
 function App() {
   return (
     <div>
-      <Home/>
+      <Home />
+    
     </div>
-
-     
   );
 }
 
