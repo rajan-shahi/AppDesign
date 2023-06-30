@@ -1,0 +1,218 @@
+.TopBar-Containner {
+  background-color: whitesmoke;
+  height: 100vh;
+  width: 100%;
+}
+
+.Navbar {
+  height: 20vh;
+}
+
+.leftRight {
+  height: 80vh;
+  display: flex;
+}
+
+.Left {
+  flex: 2;
+}
+
+.ListIteam {
+  display: flex;
+
+}
+
+.alist{
+    text-align: right;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+
+.ListIteam a {
+  margin-top: 15px;
+  display: inline-block;
+  font-size: 25px;
+  text-decoration: none;
+  font-weight: 500;
+  margin-left: 35px;
+}
+
+.ListIteam h2 {
+  font-size: 25px;
+  font-weight: 800;
+  font-style: italic;
+  margin-left: 80px;
+  margin-top: 50px;
+}
+
+.LeftbarIteam {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.btn {
+  height: 5vh;
+  width: 10vw;
+  border-radius: 20px;
+  background-color: coral;
+  margin-left: 300px;
+  margin-top: 60px;
+}
+
+.LeftbarIteam span {
+  background-color: #ff7f50;
+  font-style: italic;
+}
+
+.Img {
+  height: 65vh;
+  width: 260px;
+  margin-top: 80px;
+  text-align: center;
+  margin-left: 70px;
+  object-fit: cover;
+  border: none;
+}
+
+.right {
+  flex: 1;
+}
+
+.HomeBar-Containner {
+  background-color: whitesmoke;
+  height: 100vh;
+  width: 100%;
+}
+
+.Navbar1 {
+  height: 15vh;
+}
+
+.leftRight1 {
+  height: 85vh;
+  display: flex;
+}
+
+.left1 {
+  flex: 1.5;
+}
+
+.right1 {
+  flex: 2;
+}
+
+.Navbar1 h3 {
+  text-align: center;
+  font-style: italic;
+}
+
+.left1 img {
+  height: 50vh;
+  margin-top: 150px;
+  margin-left: 200px;
+  border-left: 3px solid coral;
+  border-bottom: 3px solid coral;
+}
+
+.right1 {
+  text-align: center;
+}
+
+.right1 p {
+  font-style: italic;
+}
+
+.right1 h3 {
+  font-style: italic;
+}
+
+.btnlast {
+  display: flex;
+  text-align: center;
+  margin-left: 350px;
+  margin-top: 60px;
+}
+
+.send {
+  height: 5vh;
+  margin: 10px;
+  background-color: #ff7f50;
+  cursor: pointer;
+  color: aliceblue;
+}
+
+.send2 {
+  height: 5vh;
+  width: 50px;
+  margin: 10px;
+  background-color: #ff7f50;
+  cursor: pointer;
+  color: aliceblue;
+}
+
+.LastBar-Containner {
+  background-color: whitesmoke;
+  height: 100vh;
+  width: 100%;
+}
+
+.navbar2 {
+  height: 15vh;
+}
+
+.rightLeft2 {
+  height: 85vh;
+  display: flex;
+}
+
+.left2 {
+  flex: 0.5;
+}
+
+.right2 {
+  flex: 1.5;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.navbar2 h2 {
+  text-align: center;
+}
+
+.container1 {
+  height: 50vh;
+  width: 200px;
+  border: 2px solid gray;
+  margin: 5px;
+  text-align: center;
+}
+
+.container2 {
+  height: 50vh;
+  width: 200px;
+  border: 2px solid gray;
+  margin: 5px;
+}
+
+.container3 {
+  height: 50vh;
+  width: 200px;
+  border: 2px solid gray;
+  margin: 5px;
+}
+
+.container4 {
+  height: 50vh;
+  width: 200px;
+  border: 2px solid gray;
+  margin: 5px;
+}
+
+.AllContainer {
+  display: flex;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 150px;
+}
